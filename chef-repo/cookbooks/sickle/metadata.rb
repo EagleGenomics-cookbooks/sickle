@@ -1,0 +1,15 @@
+name 'sickle'
+maintainer 'Eagle Genomics'
+maintainer_email 'chef@eaglegenomics.com'
+license 'apache2'
+description 'Installs/Configures sickle'
+long_description 'Installs/Configures sickle'
+version '0.1.0'
+
+source_url 'https://github.com/EagleGenomics-cookbooks/sickle'
+issues_url 'https://github.com/EagleGenomics-cookbooks/sickle/issues'
+
+depends 'apt'
+depends 'build-essential'
+depends 'magic_shell'
+depends 'git'
