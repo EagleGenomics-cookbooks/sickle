@@ -46,6 +46,10 @@ end
 
 ########
 
+magic_shell_environment 'SICKLE_VERSION' do
+  value node['sickle']['version']
+end
+
 #magic_shell_environment 'PATH' do
  # filename 'sickle'
   #value "$PATH:#{node['sickle']['bin_path']}/sickle"
