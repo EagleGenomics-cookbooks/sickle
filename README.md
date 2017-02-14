@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/EagleGenomics-cookbooks/sickle.svg?branch=master)]https://travis-ci.org/EagleGenomics-cookbooks/sickle
+[![Build Status](https://travis-ci.org/EagleGenomics-cookbooks/sickle.svg?branch=master)](https://travis-ci.org/EagleGenomics-cookbooks/sickle)
 
 # sickle
 
