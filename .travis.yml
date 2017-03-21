@@ -33,4 +33,4 @@ notifications:
     on_failure: always
 after_success:
   - chmod +x trigger_dependent_build.sh
-  - "./trigger_dependent_build.sh EagleGenomics-cookbooks sickle-runnable private $TRAVIS_ACCESS_TOKEN"
+  - "./trigger_dependent_build.sh EagleGenomics-cookbooks sickle_runnable private $TRAVIS_ACCESS_TOKEN"
